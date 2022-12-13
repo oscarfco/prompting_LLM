@@ -6,4 +6,4 @@ To run our Experiments:
 
 Prompt chains used are located in new_tasks/WSC_final.py and code that interfaces with the model is in new_tasks/decomposition.py
 
-Our Error analysis was run error_analysis.ipynb
+Our Error analysis was run Text Error Analysis.ipynb
